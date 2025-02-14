@@ -1,3 +1,8 @@
+/*
+Question:
+    Take as input the temperature of a in fahrenheit. Convert the temperature into
+    centigrade degrees. Formula: C = (F-32)*(5/9) 
+*/
 #include <stdio.h>
 int main(){
     float temp;

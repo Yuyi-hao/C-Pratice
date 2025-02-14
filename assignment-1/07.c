@@ -1,3 +1,7 @@
+/*
+Question:
+    Take any number as input and print square of the number.
+*/
 #include <stdio.h>
 int main(){
     int a;

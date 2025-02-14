@@ -1,3 +1,9 @@
+/*
+Question:
+    Take the radius of a circle. Classify if as a square or rectangle. 
+    Calculate the area and perimeter of quadrilateral. Print the classification, area 
+    and perimeter as output.
+*/
 #include <stdio.h>
 int main(){
     int radius;

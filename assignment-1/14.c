@@ -1,3 +1,7 @@
+/*
+Question:
+    Take as input numbers till the user enters 0 and then compute and print the average.
+*/
 #include <stdio.h>
 int main(){
     int num, total=0, count=0;
